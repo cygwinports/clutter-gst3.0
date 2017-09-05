@@ -2,7 +2,7 @@ ORIG_PN="clutter-gst"
 inherit gnome2
 
 NAME="clutter-gst3.0"
-VERSION=3.0.22
+VERSION=3.0.24
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="OpenGL-based animated GStreamer library"
